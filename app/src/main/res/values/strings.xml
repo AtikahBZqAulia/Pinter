@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pinter</string>
+    <string name="waiting_to_collect_option">Waiting to collect</string>
+    <string name="already_collected_option">Already collected</string>
+    <string name="location_now">Gedung Dewi Sartika</string>
+    <string name="pick_up_code_default">Pick-Up Code</string>
+    <string name="pickup_codes">Pickup Codes</string>
+    <string name="timestamp_default">Timestamp</string>
+    <string name="has_been_collected">has been collected</string>
+    <string name="orders_menu">Orders</string>
+    <string name="home_menu">Home</string>
+    <string name="account_menu">Account</string>
+</resources>
